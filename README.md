@@ -29,10 +29,9 @@ var vini = Dev{
 
 > I learned by reading other people's code. Giving some back feels like the minimum.
 
-
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ctrl-vini&show_icons=true&hide_border=true&bg_color=0D1117&title_color=3FB950&icon_color=3FB950&text_color=8B949E" alt="stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ctrl-vini&show_icons=true&hide_border=true&bg_color=0D1117&title_color=3FB950&icon_color=3FB950&text_color=8B949E" alt="stats" />
 <img height="165" src="https://streak-stats.demolab.com/?user=ctrl-vini&hide_border=true&background=0D1117&stroke=21262D&ring=3FB950&fire=3FB950&currStreakLabel=3FB950&sideLabels=8B949E&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E" alt="streak" />
 
 <div align="center">
