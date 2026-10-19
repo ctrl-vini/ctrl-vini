@@ -22,7 +22,7 @@ func (d Dev) Now() []string {
 var vini = Dev{
 	Name:     "Vinicius",
 	Handle:   "ctrl-vini",
-	Role:     "backend & fullstack developer",
+	Role:     "fullstack developer",
 	Location: "Brazil",
 }
 ```
@@ -38,7 +38,5 @@ var vini = Dev{
 <div align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark" alt="quote" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3FB950,100:0D1117&height=120&section=footer" width="100%" alt="" />
 
 </div>
